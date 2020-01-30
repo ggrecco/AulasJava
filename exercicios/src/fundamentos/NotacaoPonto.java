@@ -2,7 +2,7 @@ package fundamentos;
 
 public class NotacaoPonto {
 	public static void main(String[] args) {
-		String h = "Ol· Mundo?";
+		String h = "Ol√° Mundo?";
 		System.out.println(h);
 		
 		h = h.replace("?", "!");
